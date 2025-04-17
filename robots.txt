@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /wp-content/
+Disallow: /wp-includes/
+Disallow: /privacy-policy/
+Allow: /
+Sitemap: https://junkremovalvegas.ovh/sitemap.xml
